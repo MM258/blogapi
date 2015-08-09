@@ -47,7 +47,7 @@ INSTALLED_APPS = (
     'widget_tweaks',
     # 'imagekit',
     # 'south',
-    # 'xlwt',
+    'xlwt',
     'rest_framework',
     'rest_framework.authtoken',
     'endless_pagination',
